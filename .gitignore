@@ -35,3 +35,6 @@
 *.pdb
 *.idb
 *.enc
+*.filters
+*.user
+*.vcxproj
