@@ -26,3 +26,15 @@
 *.exe
 *.out
 *.app
+
+#log file
+*.log
+*.tlog
+
+#others
+*.pdb
+*.idb
+*.enc
+*.filters
+*.user
+*.vcxproj
